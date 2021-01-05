@@ -1,0 +1,13 @@
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\MVC Console\MVC-Console\bin\Debug\netcoreapp3.1\MVC-Console.exe
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\MVC Console\MVC-Console\bin\Debug\netcoreapp3.1\MVC-Console.deps.json
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\MVC Console\MVC-Console\bin\Debug\netcoreapp3.1\MVC-Console.runtimeconfig.json
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\MVC Console\MVC-Console\bin\Debug\netcoreapp3.1\MVC-Console.runtimeconfig.dev.json
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\MVC Console\MVC-Console\bin\Debug\netcoreapp3.1\MVC-Console.dll
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\MVC Console\MVC-Console\bin\Debug\netcoreapp3.1\MVC-Console.pdb
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\MVC Console\MVC-Console\obj\Debug\netcoreapp3.1\MVC-Console.csprojAssemblyReference.cache
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\MVC Console\MVC-Console\obj\Debug\netcoreapp3.1\MVC-Console.AssemblyInfoInputs.cache
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\MVC Console\MVC-Console\obj\Debug\netcoreapp3.1\MVC-Console.AssemblyInfo.cs
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\MVC Console\MVC-Console\obj\Debug\netcoreapp3.1\MVC-Console.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\MVC Console\MVC-Console\obj\Debug\netcoreapp3.1\MVC-Console.dll
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\MVC Console\MVC-Console\obj\Debug\netcoreapp3.1\MVC-Console.pdb
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\MVC Console\MVC-Console\obj\Debug\netcoreapp3.1\MVC-Console.genruntimeconfig.cache
